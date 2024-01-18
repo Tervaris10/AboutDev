@@ -2,15 +2,15 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/31rick31/AboutDev?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/31rick31/AboutDev?style=flat-square)
 
-# AboutDev.
+# AboutTeraris.
 
- Swift Playground Dev portfolio project
+ Swift Playground student portfolio project
  
  ## Basic Overview?
  
- AboutDev is a small Swift playground application that is a developer profile. The app displays a developer picture or logo, developers name, bio, life events or accomplishments, and a quote. It is design for Ipad pro, modification is requaired for different size screens. Fork project and customize to your self, modifiy and show your creativeness.
+ Tervaris is a guy looking to learn more things to be a productive and all around person in life. I love figuring out problems
  
- <img src="assets/SimulatorScreen1.png" width="350"> <img src="assets/SimulatorScreen2.png" width="350"> <img src="assets/SimulatorScreen3.png" width="350"> <img src="assets/SimulatorScreen4.png" width="350">
+ 
  
  ## Installation.
  
